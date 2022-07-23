@@ -67,9 +67,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://hungnguyendev.com" target="blank">
+  <!-- <a href="https://hungnguyendev.com" target="blank">
     <img width="90" height="90" src="images/logo-hungnguyendev-transparent-bg-192x192.png" alt="hungnguyendev-blog" />
-  </a>
+  </a> -->
   <a href="https://facebook.com/hungnguyendev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hungnguyendev-facebook" />
   </a>
